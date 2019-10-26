@@ -5,6 +5,7 @@ public class User {
     private String surname;
     private String patronymic;
     private long phoneNumber;
+
     public User (String name,String surname,String patronymic,long phoneNumber){
         this.name = name;
         this.patronymic = patronymic;
